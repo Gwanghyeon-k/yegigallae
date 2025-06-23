@@ -41,3 +41,5 @@ out/
 nginx.conf
 ../src/main/resources/application-prod.yml
 **/application-prod.yml
+
+src/main/resources/application.yml
