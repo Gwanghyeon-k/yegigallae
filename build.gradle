@@ -66,6 +66,8 @@ dependencies {
     annotationProcessor "jakarta.persistence:jakarta.persistence-api"
 
     implementation 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310'
+    implementation "io.netty:netty-resolver-dns-native-macos:4.1.111.Final:osx-x86_64"
+
 }
 
 
